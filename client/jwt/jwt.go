@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/golang-jwt/jwt"
-	. "github.com/twilio/twilio-go/client/jwt/util"
+	. "github.com/patnunes/twilio-go/client/jwt/util"
 )
 
 type TokenType string

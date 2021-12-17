@@ -18,7 +18,7 @@ import (
 
 	"strings"
 
-	"github.com/twilio/twilio-go/client"
+	"github.com/patnunes/twilio-go/client"
 )
 
 // Remove a push notification binding from the conversation service

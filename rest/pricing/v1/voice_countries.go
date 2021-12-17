@@ -18,7 +18,7 @@ import (
 
 	"strings"
 
-	"github.com/twilio/twilio-go/client"
+	"github.com/patnunes/twilio-go/client"
 )
 
 func (c *ApiService) FetchVoiceCountry(IsoCountry string) (*PricingV1VoiceCountryInstance, error) {

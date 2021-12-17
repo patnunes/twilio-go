@@ -3,8 +3,8 @@ package client_test
 import (
 	"testing"
 
+	"github.com/patnunes/twilio-go/client"
 	"github.com/stretchr/testify/assert"
-	"github.com/twilio/twilio-go/client"
 )
 
 func NewRequestHandler(accountSid string, authToken string) *client.RequestHandler {

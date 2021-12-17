@@ -19,7 +19,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/twilio/twilio-go/client"
+	"github.com/patnunes/twilio-go/client"
 )
 
 // Delete a specific User Conversation.

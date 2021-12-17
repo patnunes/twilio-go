@@ -16,7 +16,7 @@ import (
 	"fmt"
 	"net/url"
 
-	"github.com/twilio/twilio-go/client"
+	"github.com/patnunes/twilio-go/client"
 )
 
 // Optional parameters for the method 'ListCallSummaries'

@@ -10,8 +10,8 @@ import (
 	"testing"
 	"time"
 
+	twilio "github.com/patnunes/twilio-go/client"
 	"github.com/stretchr/testify/assert"
-	twilio "github.com/twilio/twilio-go/client"
 )
 
 var mockServer *httptest.Server

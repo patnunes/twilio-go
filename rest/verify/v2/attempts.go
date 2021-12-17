@@ -19,7 +19,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/twilio/twilio-go/client"
+	"github.com/patnunes/twilio-go/client"
 )
 
 // Fetch a specific verification attempt.
